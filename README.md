@@ -1,5 +1,4 @@
 # ft_scop
-# scop
 42 project "Scop" (OpenGL)
 
 ### A graphics assignment, for the school 42
